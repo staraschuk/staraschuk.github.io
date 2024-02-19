@@ -1,0 +1,298 @@
+@font-face {
+  src: url('fonts/FormaDJRCyrillicVariable-VF-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicVariable-VF-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicVariable';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicMicro-ExtraLight-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicMicro-ExtraLight-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicMicro';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicMicro-Light-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicMicro-Light-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicMicro';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicMicro-Regular-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicMicro-Regular-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicMicro';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicMicro-Medium-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicMicro-Medium-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicMicro';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicMicro-Bold-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicMicro-Bold-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicMicro';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicText-ExtraLight-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicText-ExtraLight-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicText';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicText-Light-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicText-Light-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicText';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicText-Regular-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicText-Regular-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicText';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicText-Medium-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicText-Medium-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicText';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicText-Bold-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicText-Bold-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicText';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDeck-ExtraLight-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDeck-ExtraLight-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDeck';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDeck-Light-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDeck-Light-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDeck';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDeck-Regular-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDeck-Regular-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDeck';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDeck-Medium-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDeck-Medium-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDeck';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDeck-Bold-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDeck-Bold-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDeck';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDisplay-ExtraLight-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDisplay-ExtraLight-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDisplay';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDisplay-Light-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDisplay-Light-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDisplay';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDisplay-Regular-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDisplay-Regular-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDisplay';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/FormaDJRCyrillicDisplay-Medium-strk.woff2') format("woff2"),
+  url('fonts/FormaDJRCyrillicDisplay-Medium-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDisplay';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('./fonts/FormaDJRCyrillicDisplay-Bold-strk.woff2') format("woff2"),
+  url('./fonts/FormaDJRCyrillicDisplay-Bold-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicDisplay';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('./fonts/FormaDJRCyrillicBanner-ExtraLight-strk.woff2') format("woff2"),
+  url('./fonts/FormaDJRCyrillicBanner-ExtraLight-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('./fonts/FormaDJRCyrillicBanner-Light-strk.woff2') format("woff2"),
+  url('./fonts/FormaDJRCyrillicBanner-Light-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('./fonts/FormaDJRCyrillicBanner-Regular-strk.woff2') format("woff2"),
+  url('./fonts/FormaDJRCyrillicBanner-Regular-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('./fonts/FormaDJRCyrillicBanner-Medium-strk.woff2') format("woff2"),
+  url('/fonts/FormaDJRCyrillicBanner-Medium-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/FormaDJRCyrillicBanner-Bold-strk.woff2') format("woff2"),
+  url('/fonts/FormaDJRCyrillicBanner-Bold-strk.woff') format("woff");
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: bold;
+}
+
+
+html {
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: 500;
+  color: #222;
+  font-size: 1em;
+ background-color: black;
+  line-height: 1.4;
+  overflow-x: hidden;
+}
+p {
+  font-family: 'FormaDJRCyrillicBanner';
+  font-style: normal;
+  font-weight: 700;
+  color: #ff0030;
+  font-size: 1em;
+  line-height: 1.4;
+}
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 90px;
+
+}
+header {
+  width: 100vw;
+ position: fixed;
+  backdrop-filter: blur(7px);
+  padding: 5px;
+  margin-bottom: 20px;
+  -webkit-filter: blur(60/@rem);
+  -moz-filter: blur(60/@rem);
+  -o-filter: blur(60/@rem);
+  -ms-filter: blur(60/@rem);
+  filter: blur(60/@rem);
+text-align: center;
+  margin-top: -100px;
+  height: 60px;
+  color: white;
+  font-size: 40px;
+}
+
+.galpost {
+  text-align: center;
+  display: flex;
+  flex-direction:row;
+  flex-wrap:wrap-reverse;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 5vh;
+}
+.galpost-img {
+  display: flex;
+  width: 30vw;
+padding: 5px;
+margin 5px;
+}
+.lozung {
+ background-image: url("../img/back.gif");
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 88vh;
+padding-top:100px;
+  margin-top: -83px;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  align-items: flex-start;
+  justify-content: flex-end;
+
+}
+.block {
+  display: inline-flex;
+  color: white;
+  font-size: 90px;
+  line-height: 50px;
+  font-weight: 1000;
+
+
+}
+.block_normal {
+  display: inline-flex;
+  color: white;
+  font-size: 90px;
+  line-height: 60px;
+  font-weight: 500;
+
+}
