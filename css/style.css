@@ -265,7 +265,7 @@ padding: 5px;
 margin 5px;
 }
 .lozung {
-/** background-image: url("../img/back.gif");**/
+background-image: url("../img/back.gif");
   background-size: cover;
   background-position: center;
   width: 100vw;
