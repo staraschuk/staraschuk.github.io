@@ -265,7 +265,7 @@ padding: 5px;
 margin 5px;
 }
 .lozung {
- background-image: url("../img/back.gif");
+/** background-image: url("../img/back.gif");**/
   background-size: cover;
   background-position: center;
   width: 100vw;
@@ -277,6 +277,7 @@ padding-top:100px;
   align-content: flex-start;
   align-items: flex-start;
   justify-content: flex-end;
+background-color: #10ff54;
 
 }
 .block {
